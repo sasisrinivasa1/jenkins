@@ -8,7 +8,7 @@ pipeline{
     }
       stage('Test'){
         steps{
-          print("Tetsing the Application")
+          print("Testing the Application")
       }
       }
         stage('Deploy'){
